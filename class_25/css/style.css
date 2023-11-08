@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1140px;
+    margin: auto;
+    text-align: center;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightskyblue;
+    
+}
+form{
+    width: 600px;
+    padding: 50px;
+    background-color: red;
+    margin: auto;
+    border-radius: 5px;
+}
+
+.heading span{
+    margin-left: 50px;
+    font-size: 18px;
+    
+}
+.player_1{
+    margin-top: 40px;
+}
+.player_1 h2{
+    margin-bottom: 20px;
+}
+.player_1 input{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 130px;
+    padding-left: 10px;
+}
+.p_1_submit{
+    padding: 8px 10px;
+}
+.player_2{
+    margin-top: 40px;
+}
+.player_2 h2{
+    margin-bottom: 20px;
+}
+.player_2 input{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 130px;
+    padding-left: 10px;
+}
+.submit_2{
+    padding: 8px 10px;
+}
+
+
